@@ -18,8 +18,8 @@ Examples of what you can create in Data Studio:
 
 ## Media
 
-See Tweet [here](https://twitter.com/mediocrity/status/...).
-See Medium post [here](https://medium.com/@mediocrity/...).
+See Tweet [here](https://twitter.com/mediocrity/status/868665857542684672).
+See Medium post [here](https://medium.com/@mediocrity/analyze-your-amazon-web-services-aws-bills-w-google-bigquery-data-studio-a9dc85d4eef0).
 
 
 The files that I started with were Apache License 2.0, so that license will persist.
