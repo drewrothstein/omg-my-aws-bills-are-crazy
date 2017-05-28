@@ -1,0 +1,23 @@
+[
+  {"name": "InvoiceID", "type": "string", "mode": "nullable"},
+  {"name": "PayerAccountId", "type": "string", "mode": "nullable"},
+  {"name": "LinkedAccountId", "type": "string", "mode": "nullable"},
+  {"name": "RecordType", "type": "string", "mode": "nullable"},
+  {"name": "RecordId", "type": "string", "mode": "nullable"},
+  {"name": "ProductName", "type": "string", "mode": "nullable"},
+  {"name": "RateId", "type": "string", "mode": "nullable"},
+  {"name": "SubscriptionId", "type": "string", "mode": "nullable"},
+  {"name": "PricingPlanId", "type": "string", "mode": "nullable"},
+  {"name": "UsageType", "type": "string", "mode": "nullable"},
+  {"name": "Operation", "type": "string", "mode": "nullable"},
+  {"name": "AvailabilityZone", "type": "string", "mode": "nullable"},
+  {"name": "ReservedInstance", "type": "string", "mode": "nullable"},
+  {"name": "ItemDescription", "type": "string", "mode": "nullable"},
+  {"name": "UsageStartDate", "type": "string", "mode": "nullable"},
+  {"name": "UsageEndDate", "type": "string", "mode": "nullable"},
+  {"name": "UsageQuantity", "type": "string", "mode": "nullable"},
+  {"name": "Rate", "type": "string", "mode": "nullable"},
+  {"name": "Cost", "type": "string", "mode": "nullable"},
+  {"name": "ResourceId", "type": "string", "mode": "nullable"},
+  {"name": "user_billing", "type": "string", "mode": "nullable"}
+]
